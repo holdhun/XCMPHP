@@ -1,0 +1,23 @@
+{
+    "require": {
+        "filp/whoops": "^2.2",
+        "phpmailer/phpmailer": "^6.0",
+        "nette/mail": "^2.4"
+    },
+   "autoload": {
+        "psr-4": {
+            "core\\": "core",
+            "app\\": "app",
+            "app\\index\\": "app/index",
+            "app\\lib\\": "app/lib",
+            "app\\lib\\wxpay\\": "app/lib/wxpay",
+            "app\\model\\": "app/model",
+          "app\\index\\controller\\": "app/index/controller",
+          "app\\index\\model\\": "app/index/model",
+          "app\\api\\controller\\": "app/api/controller",
+          "app\\api\\model\\": "app/api/model",
+          "app\\admin\\controller\\": "app/admin/controller",
+          "app\\admin\\model\\": "app/admin/model"
+        }
+    }
+}
