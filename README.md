@@ -28,7 +28,7 @@ xcmphp无需安装，下载后将解压的目录拷贝到web目录即可
 
 使用xcmphp框架请遵循开源协议，并仔细阅读帮助文档
 
-xcmphp官网http://xcmshop.sc2yun.com
+xcmphp官网http://hubahu.xyz
 
 感谢你的浏览和支持！
 
